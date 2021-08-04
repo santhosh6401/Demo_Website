@@ -1,0 +1,38 @@
+@media (max-width:768px){
+   .cover{
+       height: 350px;
+   }
+   .section-2 .rect-1{
+       margin-top: 80px;
+   }
+   .card{
+       margin-top: 50px;
+   }
+  .section-3{
+      height:630px;
+  }
+  header .row .col-md-7{
+      padding-top: 80px;
+  }
+  .pray img{
+      height:200px;
+      padding-left:65px;
+      width: 350px;
+      border-radius: 0.3em;
+  }
+ li{
+     text-align: center;
+ }
+
+  .panel{
+    margin:60px;
+    border-radius: 5px;
+    background-color:white;
+    padding-top: 50px;
+}
+.text{
+    padding-left:75px ;
+    padding-right:75px;
+     
+}
+}
